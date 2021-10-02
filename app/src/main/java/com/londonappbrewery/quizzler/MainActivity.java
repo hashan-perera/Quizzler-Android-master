@@ -75,7 +75,7 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View view) {
                 checkAnswer(true);
-                updateQuestion();
+                updateQuestion();kasck
             }
         });
         mFalseButton.setOnClickListener(new View.OnClickListener() {
